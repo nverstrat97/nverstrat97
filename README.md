@@ -10,7 +10,7 @@ I'm on an exciting journey into the world of **IT, networking, cybersecurity, an
 ## 🔧 Technologies & Tools I'm Exploring
 
 - **Programming**: Python, Bash (Basics)
-- **IT & Networking**: CompTIA A+ (Studying), Networking Fundamentals, Cybersecurity Principles
+- **IT & Networking**: Linux, CompTIA A+ (Studying), Networking Fundamentals, Cybersecurity Principles
 - **Cloud**: AWS (EC2, S3, IAM, VPC)
 - **Design & Visualization**: Revit, Adobe Suite (from past experience)
 - **Version Control**: Git & GitHub
