@@ -1,45 +1,83 @@
-
 # 👋 Hi, I'm Nathan VerStrat!
 
-🚀 **Aspiring IT Professional | Cybersecurity & Networking Enthusiast | Python Learner**
+💻 **Technical Support Specialist | Application Support | Web Development & Cloud Enthusiast**
 
-I'm on an exciting journey into the world of **IT, networking, cybersecurity, and cloud technologies (AWS)**. With a background in **customer service and management**, I'm now diving deep into **Python programming, system administration, and security principles** to build a strong foundation in tech.
+I'm a technical support professional focused on troubleshooting, web technologies, and building solutions through technology. I currently support a SaaS platform serving hundreds of businesses, helping resolve complex software, website, hosting, domain, and technical infrastructure issues.
 
----
-
-## 🔧 Technologies & Tools I'm Exploring
-
-- **Programming**: Python, Bash (Basics)
-- **IT & Networking**: Linux, CompTIA A+ (Studying), Networking Fundamentals, Cybersecurity Principles
-- **Cloud**: AWS (EC2, S3, IAM, VPC)
-- **Design & Visualization**: Revit, Adobe Suite (from past experience)
-- **Version Control**: Git & GitHub
+My background combines **technical support, customer communication, web development, and problem-solving**. I enjoy translating complex technical challenges into clear solutions while continuing to expand my skills in **Python, Linux, networking, cybersecurity, and cloud technologies**.
 
 ---
 
-## 📚 Current Learning Journey
+## 🛠️ Technologies & Tools
 
-🔹 Studying for **CompTIA A+ (Core 1 & Core 2)**  
-🔹 Practicing Python with small automation projects  
-🔹 Exploring AWS fundamentals & cloud security  
-🔹 Enhancing troubleshooting and help desk skills  
+### Programming & Web Development
+
+* HTML
+* CSS
+* JavaScript (fundamentals)
+* Python
+* PHP (fundamentals)
+* Git & GitHub
+* Command Line / Terminal
+
+### IT & Infrastructure
+
+* Windows & macOS
+* Linux Fundamentals
+* Networking Fundamentals
+* DNS & Domain Management
+* Web Hosting
+* SSL Certificates
+* Browser Developer Tools
+* Technical Troubleshooting
+
+### Platforms & Tools
+
+* WordPress
+* AWS (fundamentals)
+* Jira
+* Intercom
+* HubSpot
+* VS Code
+* Adobe Creative Suite
 
 ---
 
-## 📌 My Goals
+## 📚 Current Learning & Development
 
-✅ Secure an **entry-level IT help desk / tier 1 support** role  
-✅ Gain hands-on experience in **networking & system administration**  
-✅ Contribute to open-source projects and share my learning journey  
-✅ Earn certifications in **CompTIA A+, Network+, Security+**, and AWS  
-
----
-
-## ✨ Let's Connect!
-
-📧 **Email**: nathanverstrat@gmail.com  
-💼 **LinkedIn**: [Nathan VerStrat](https://www.linkedin.com/in/nathan-verstrat/)  
+🔹 Building Python projects to strengthen programming fundamentals
+🔹 Studying networking, cybersecurity, and system administration concepts
+🔹 Expanding knowledge of AWS and cloud infrastructure
+🔹 Preparing for CompTIA certifications
+🔹 Improving automation and troubleshooting workflows
 
 ---
 
-🔹 _"The most powerful technologies are the ones that empower others." - Jensen Huang_
+## 🚀 Technical Interests
+
+* Application Support Engineering
+* SaaS Platforms
+* Cloud Infrastructure
+* Web Development
+* Cybersecurity
+* Automation & Scripting
+* System Administration
+
+---
+
+## 📌 Projects & Goals
+
+I use GitHub to document my learning journey, experiment with new technologies, and build practical projects focused on programming, automation, and IT fundamentals.
+
+My goal is to continue growing into roles involving **application support, cloud technologies, system administration, and software development** while contributing to meaningful technical solutions.
+
+---
+
+## ✨ Let's Connect
+
+📧 Email: [nathanverstrat@gmail.com](mailto:nathanverstrat@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/nathan-verstrat/
+
+---
+
+*"The most powerful technologies are the ones that empower others."*
